@@ -39,7 +39,7 @@ export default function Hero() {
             <p className="mt-8 max-w-xl text-lg leading-8 text-gray-300">
               Book your appointment in just a few clicks. Our experienced
               dental team is here to provide comfortable, modern, and
-              personalized dental cares.
+              personalized dental care.
             </p>
 
             <div className="mt-10 flex flex-wrap gap-5">
