@@ -26,7 +26,7 @@ export default function Hero() {
           <div>
 
             <span className="inline-block rounded-full border border-[#D4AF37]/40 bg-[#D4AF37]/10 px-5 py-2 text-sm font-medium uppercase tracking-[3px] text-[#D4AF37]">
-              Book Appointment
+              Book Appointments
             </span>
 
             <h1 className="mt-8 font-serif text-5xl font-bold leading-tight text-white md:text-6xl">
