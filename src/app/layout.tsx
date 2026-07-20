@@ -2,7 +2,7 @@ import Footer from "@/app/components/shared/Footer";
 import Header from "@/app/components/shared/Header";
 
 import "./globals.css";
-
+import { Toaster } from "sonner";
 
 export default function RootLayout({
   children,
@@ -14,6 +14,10 @@ export default function RootLayout({
       <body>
         <Header />
         {children}
+          <Toaster
+    richColors
+    position="top-right"
+  />
         <Footer />
       </body>
     </html>
